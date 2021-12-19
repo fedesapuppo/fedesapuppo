@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fedesapuppo
 
-I have been serving in the Argentinian Air Force for 10 years now and since last year I decided I wanted to become a software developer. 
-At the moment I'm super excited working in The Odin Project and hopping to some day land a job in the IT industry.
+I have been serving in the Argentinian Air Force for 10 years and last year I decided I wanted to become a software developer. 
+At the moment, I'm super excited working in The Odin Project, and hopping to some day land a job in the IT industry!
 
 - 📫 How to reach me 
 
