@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @fedesapuppo
+## Hi! I’m @fedesapuppo
 
-I have been serving in the Argentinian Air Force for 10 years and last year I decided I wanted to become a software developer. 
-At the moment, I'm super excited working in The Odin Project, and hopping to some day land a job in the IT industry!
+I’m a **Ruby on Rails developer** based in Argentina 🇦🇷
 
-- 📫 How to reach me 
+I work building and maintaining production-grade applications, APIs, and background systems.  
+I’ve contributed to projects ranging from mobile-backed APIs to accessibility-focused web apps, and I enjoy writing clean, idiomatic, and well-tested code.
 
-fedesapuppo@hotmail.com
+### I’m interested in
+- Backend development with **Ruby on Rails**
+- **APIs, databases, and performance optimization**
+- **Accessibility**, maintainability, and solid engineering practices
+- Collaborating with **remote, international teams**
 
-<!---
-fedesapuppo/fedesapuppo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Always learning
+I’m always learning, and currently focused on **maximizing productivity and code quality through the effective use of AI**.
+
+### How to reach me
+- **Email:** fedesapuppo@hotmail.com
