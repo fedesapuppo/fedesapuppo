@@ -6,7 +6,7 @@ I work building and maintaining production-grade applications, APIs, and backgro
 I’ve contributed to projects ranging from mobile-backed APIs to accessibility-focused web apps, and I enjoy writing clean, idiomatic, and well-tested code.
 
 ### I’m interested in
-- Backend development with **Ruby on Rails**
+- Development with **Ruby on Rails**
 - **APIs, databases, and performance optimization**
 - **Accessibility**, maintainability, and solid engineering practices
 - Collaborating with **remote, international teams**
