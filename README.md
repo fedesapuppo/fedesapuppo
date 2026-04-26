@@ -1,18 +1,21 @@
-## Hi! I’m @fedesapuppo
+### Hi, I'm Fred 👋
 
-I’m a **Ruby on Rails developer** based in Argentina 🇦🇷
+Ruby on Rails developer based in Argentina 🇦🇷, building and maintaining
+production apps, APIs, and background systems with AI in the loop.
 
-I work building and maintaining production-grade applications, APIs, and background systems.  
-I’ve contributed to projects ranging from mobile-backed APIs to accessibility-focused web apps, and I enjoy writing clean, idiomatic, and well-tested code.
+#### What I work on
 
-### I’m interested in
-- Development with **Ruby on Rails**
-- **APIs, databases, and performance optimization**
-- **Accessibility**, maintainability, and solid engineering practices
-- Collaborating with **remote, international teams**
+- **Rails, end to end** — APIs, Postgres, background jobs, AWS deploys
+- **Test-backed refactors** — RSpec, Capybara, killing tech debt without breaking prod
+- **Accessibility & performance** — WCAG 2.1 AA, query optimization, real cost reductions
+- **Open source** — contributor to [Rails](https://contributors.rubyonrails.org/contributors/federico-sapuppo/commits) and [Omarchy](https://github.com/basecamp/omarchy)
 
-### Always learning
-I’m always learning, and currently focused on **maximizing productivity and code quality through the effective use of AI**.
+#### Currently exploring
 
-### How to reach me
-- **Email:** fedesapuppo@hotmail.com
+How to ship Rails faster with AI without losing the craft — prompts as
+conventions, skills as documentation, agents that respect the Rails Way.
+I write about it at [OffTheRails](https://fedesapuppo.github.io/resume-website/#off-the-rails).
+
+#### Reach me
+
+📧 fedesapuppo@hotmail.com · 💼 [LinkedIn](https://linkedin.com/in/federicosapuppo) · 🌐 [Resume](https://fedesapuppo.github.io/resume-website/)
